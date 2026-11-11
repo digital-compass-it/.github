@@ -36,12 +36,6 @@ Thinking about joining a coding bootcamp or funded retraining program? Read our 
 
 ---
 
-### 🎓 Live Orientation Workshops & Mentoring
-Based on my proven orientation workshops (including dedicated programs for **women entering tech**), I offer live guidance and practical beginner courses to help you take your first steps with confidence:
-* **IT Career Orientation Workshop:** Find out which IT role matches your strengths.
-* **Hands-On Starter Courses:** Practical introductions to core IT tools and workflows.
-* **1-on-1 Roadmap Review:** Get personal feedback on your learning plan.
-
 📬 **Interested in joining a workshop or collaborating?**  
 *(Add your LinkedIn profile, email address, or booking link here)*
 
