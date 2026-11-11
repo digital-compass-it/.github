@@ -22,10 +22,10 @@ Explore our dedicated repositories below. Each path includes a **role profile**,
 | IT Career Path | Best For People Who Enjoy... | Coding Level | Roadmap Repository |
 | :--- | :--- | :--- | :--- |
 | **0. Start Here: Orientation** | *Not sure yet? Understand the IT landscape and realistic entry barriers.* | None | 👉 [start-here-orientation](https://github.com/digital-compass-it/start-here-orientation) |
-| **1. IT Support & SysAdmin** | Solving practical technical problems, helping users, Windows/M365, and networks. | Low | 👉 [path-it-support](../path-it-support) |
-| **2. QA & Software Testing** | Structured thinking, finding errors, quality control, and user perspective. | Low | 👉 [path-qa-testing](../path-qa-testing) |
-| **3. Data & Business Analytics** | Advanced Excel, numbers, patterns, Power BI dashboards, and business insights. | Low | 👉 [path-data-analytics](../path-data-analytics) |
-| **4. Applied AI & Workflow Builder** | Solving real business problems with AI, no-code automation, and rapid prototyping. | Low | 👉 [path-applied-ai-solutions](../path-applied-ai-solutions) |
+| **1. IT Support & SysAdmin** | Solving practical technical problems, helping users, Windows/M365, and networks. | Low | 👉 [path-it-support](https://github.com/digital-compass-it/path-it-support) |
+| **2. QA & Software Testing** | Structured thinking, finding errors, quality control, and user perspective. | Low | 👉 [path-qa-testing](https://github.com/digital-compass-it/path-qa-testing) |
+| **3. Data & Business Analytics** | Advanced Excel, numbers, patterns, Power BI dashboards, and business insights. | Low | 👉 [path-data-analytics](https://github.com/digital-compass-it/path-data-analytics) |
+| **4. Applied AI & Workflow Builder** | Solving real business problems with AI, no-code automation, and rapid prototyping. | Low | 👉 [path-applied-ai-solutions](https://github.com/digital-compass-it/path-applied-ai-solutions) |
 
 *(Tip: Click on the pinned repositories below to open each roadmap directly!)*
 
@@ -33,7 +33,7 @@ Explore our dedicated repositories below. Each path includes a **role profile**,
 
 ### ✅ Before You Sign Any Contract: Read the IT School Checklist
 Thinking about joining a coding bootcamp or funded retraining program? Check the **Green Flags** (what a great program looks like) and **Red Flags** (what to avoid) before spending a single dollar or training voucher:
-* 👉 Open the **[it-school-checklist](../it-school-checklist)** repository below.
+* 👉 Open the **[it-school-checklist](https://github.com/digital-compass-it/it-school-checklist)** repository below.
 
 ---
 
