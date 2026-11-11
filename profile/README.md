@@ -21,7 +21,7 @@ Explore our dedicated repositories below. Each path includes a **role profile**,
 
 | IT Career Path | Best For People Who Enjoy... | Coding Level | Roadmap Repository |
 | :--- | :--- | :--- | :--- |
-| **0. Start Here: Orientation** | *Not sure yet? Understand the IT landscape and realistic entry barriers.* | None | 👉 [start-here-orientation](../start-here-orientation) |
+| **0. Start Here: Orientation** | *Not sure yet? Understand the IT landscape and realistic entry barriers.* | None | 👉 [start-here-orientation](https://github.com/digital-compass-it/start-here-orientation) |
 | **1. IT Support & SysAdmin** | Solving practical technical problems, helping users, Windows/M365, and networks. | Low | 👉 [path-it-support](../path-it-support) |
 | **2. QA & Software Testing** | Structured thinking, finding errors, quality control, and user perspective. | Low | 👉 [path-qa-testing](../path-qa-testing) |
 | **3. Data & Business Analytics** | Advanced Excel, numbers, patterns, Power BI dashboards, and business insights. | Low | 👉 [path-data-analytics](../path-data-analytics) |
